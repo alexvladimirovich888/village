@@ -321,24 +321,24 @@ let userCitizens = [];
 let marketplaceItems = [
   {
     id: 1,
-    name: "Gold $FA",
+    name: "Gold $Village420",
     description:
-      "Popular $FA storage method in village, Gold $FA is always equal to 1000$ $FA",
+      "Popular $Village420 storage method in village, Gold $Village420 is always equal to 1000$ $Village420",
     price: 1000,
     image: "images/items/gold_house.jpg",
   },
   {
     id: 2,
-    name: "Silver $FA",
+    name: "Silver $Village420",
     description:
-      "Popular $FA storage method in village, Silver $FA is always equal to 100$ $FA",
+      "Popular $Village420 storage method in village, Silver $Village420 is always equal to 100$ $Village420",
     price: 100,
     image: "images/items/silver_house.jpg",
   },
   {
     id: 3,
     name: "Experience",
-    description: "Boost your profile leaderboard rank in $FA verse.",
+    description: "Boost your profile leaderboard rank in $Village420 verse.",
     price: 500,
     image: "images/items/expirence.jpg",
   },
@@ -596,7 +596,7 @@ document.getElementById("connect-button").addEventListener("click", () => {
   balanceDisplay.textContent = balance;
   
   // Показываем сообщение об успехе
-  showSuccessMessage("Wallet connected successfully! You received 1000 $FA");
+  showSuccessMessage("Wallet connected successfully! You received 1000 $Village420");
 });
 
 // Инициализация при загрузке страницы
